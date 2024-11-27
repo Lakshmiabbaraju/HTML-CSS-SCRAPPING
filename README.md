@@ -5,6 +5,7 @@ The homework instructions and requirements are located in Canvas (or in the 08-C
 The data was analyzed to answer the following questions: (10 points)
 
 How many months exist on Mars? (5 points)
+
 . 12
 
 How many Martian days' worth of data are there? (5 points)
